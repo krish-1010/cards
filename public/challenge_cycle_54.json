@@ -1,0 +1,326 @@
+[
+  {
+    "week": 1,
+    "title": "Batman / Gaslight",
+    "start_date": "2025-05-15",
+    "end_date": "2025-05-21"
+  },
+  {
+    "week": 2,
+    "title": "Green Lantern / Red Son",
+    "start_date": "2025-05-22",
+    "end_date": "2025-05-28"
+  },
+  {
+    "week": 3,
+    "title": "Superman / Injustice 2",
+    "start_date": "2025-05-29",
+    "end_date": "2025-06-04"
+  },
+  {
+    "week": 4,
+    "title": "The Arkham Knight / Arkham Knight",
+    "start_date": "2025-06-05",
+    "end_date": "2025-06-11"
+  },
+  {
+    "week": 5,
+    "title": "Aquaman / Prime",
+    "start_date": "2025-06-12",
+    "end_date": "2025-06-18"
+  },
+  {
+    "week": 6,
+    "title": "Batman / Blackest Night",
+    "start_date": "2025-06-19",
+    "end_date": "2025-06-25"
+  },
+  {
+    "week": 7,
+    "title": "Sinestro / Antimatter",
+    "start_date": "2025-06-26",
+    "end_date": "2025-07-02"
+  },
+  {
+    "week": 8,
+    "title": "Wonder Woman / Dawn of Justice",
+    "start_date": "2025-07-03",
+    "end_date": "2025-07-09"
+  },
+  {
+    "week": 9,
+    "title": "Scorpion / Mortal Kombat X",
+    "start_date": "2025-07-10",
+    "end_date": "2025-07-16"
+  },
+  {
+    "week": 10,
+    "title": "Batgirl / Arkham Knight",
+    "start_date": "2025-07-17",
+    "end_date": "2025-07-23"
+  },
+  {
+    "week": 11,
+    "title": "Zatanna",
+    "start_date": "2025-07-24",
+    "end_date": "2025-07-30"
+  },
+  {
+    "week": 12,
+    "title": "Superman / New 52",
+    "start_date": "2025-07-31",
+    "end_date": "2025-08-06"
+  },
+  {
+    "week": 13,
+    "title": "Darkseid / Prime",
+    "start_date": "2025-08-07",
+    "end_date": "2025-08-13"
+  },
+  {
+    "week": 14,
+    "title": "Hawkgirl / Earth 2",
+    "start_date": "2025-08-14",
+    "end_date": "2025-08-20"
+  },
+  {
+    "week": 15,
+    "title": "Hal Jordan / Yellow Lantern",
+    "start_date": "2025-08-21",
+    "end_date": "2025-08-27"
+  },
+  {
+    "week": 16,
+    "title": "Martian Manhunter / Prime",
+    "start_date": "2025-08-28",
+    "end_date": "2025-09-03"
+  },
+  {
+    "week": 17,
+    "title": "Batgirl / Prime",
+    "start_date": "2025-09-04",
+    "end_date": "2025-09-10"
+  },
+  {
+    "week": 18,
+    "title": "Superman / Godfall",
+    "start_date": "2025-09-11",
+    "end_date": "2025-09-17"
+  },
+  {
+    "week": 19,
+    "title": "Scorpion / Mortal Kombat",
+    "start_date": "2025-09-18",
+    "end_date": "2025-09-24"
+  },
+  {
+    "week": 20,
+    "title": "Hawkgirl / Regime",
+    "start_date": "2025-09-25",
+    "end_date": "2025-10-01"
+  },
+  {
+    "week": 21,
+    "title": "Aquaman / Injustice 2",
+    "start_date": "2025-10-02",
+    "end_date": "2025-10-08"
+  },
+  {
+    "week": 22,
+    "title": "Bane / Luchador",
+    "start_date": "2025-10-09",
+    "end_date": "2025-10-15"
+  },
+  {
+    "week": 23,
+    "title": "Hawkgirl / Blackest Night",
+    "start_date": "2025-10-16",
+    "end_date": "2025-10-22"
+  },
+  {
+    "week": 24,
+    "title": "Green Lantern / Red Lantern (Hal Jordan)",
+    "start_date": "2025-10-23",
+    "end_date": "2025-10-29"
+  },
+  {
+    "week": 25,
+    "title": "Lord Joker / Batman Ninja",
+    "start_date": "2025-10-30",
+    "end_date": "2025-11-05"
+  },
+  {
+    "week": 26,
+    "title": "Lobo / Bounty Hunter",
+    "start_date": "2025-11-06",
+    "end_date": "2025-11-12"
+  },
+  {
+    "week": 27,
+    "title": "Killer Croc / Arkham",
+    "start_date": "2025-11-13",
+    "end_date": "2025-11-19"
+  },
+  {
+    "week": 28,
+    "title": "Killer Frost / Prime",
+    "start_date": "2025-11-20",
+    "end_date": "2025-11-26"
+  },
+  {
+    "week": 29,
+    "title": "Black Adam / Kahndaq",
+    "start_date": "2025-11-27",
+    "end_date": "2025-12-03"
+  },
+  {
+    "week": 30,
+    "title": "Deadshot / Suicide Squad",
+    "start_date": "2025-12-04",
+    "end_date": "2025-12-10"
+  },
+  {
+    "week": 31,
+    "title": "Green Lantern / Jessica Cruz Rebirth",
+    "start_date": "2025-12-11",
+    "end_date": "2025-12-17"
+  },
+  {
+    "week": 32,
+    "title": "Harley Quinn / Suicide Squad",
+    "start_date": "2025-12-18",
+    "end_date": "2025-12-24"
+  },
+  {
+    "week": 33,
+    "title": "Superman / Dawn of Justice",
+    "start_date": "2025-12-25",
+    "end_date": "2025-12-31"
+  },
+  {
+    "week": 34,
+    "title": "Batman / Beyond Animated",
+    "start_date": "2026-01-01",
+    "end_date": "2026-01-07"
+  },
+  {
+    "week": 35,
+    "title": "Raven / Prime",
+    "start_date": "2026-01-08",
+    "end_date": "2026-01-14"
+  },
+  {
+    "week": 36,
+    "title": "Solomon Grundy / Earth 2",
+    "start_date": "2026-01-15",
+    "end_date": "2026-01-21"
+  },
+  {
+    "week": 37,
+    "title": "Static / Prime",
+    "start_date": "2026-01-22",
+    "end_date": "2026-01-28"
+  },
+  {
+    "week": 38,
+    "title": "Batman / Flashpoint",
+    "start_date": "2026-01-29",
+    "end_date": "2026-02-04"
+  },
+  {
+    "week": 39,
+    "title": "John Stewart / Green Lantern",
+    "start_date": "2026-02-05",
+    "end_date": "2026-02-11"
+  },
+  {
+    "week": 40,
+    "title": "The Flash / Earth 2",
+    "start_date": "2026-02-12",
+    "end_date": "2026-02-18"
+  },
+  {
+    "week": 41,
+    "title": "Darkseid / Apokolips",
+    "start_date": "2026-02-19",
+    "end_date": "2026-02-25"
+  },
+  {
+    "week": 42,
+    "title": "Catwoman / Arkham Knight",
+    "start_date": "2026-02-26",
+    "end_date": "2026-03-04"
+  },
+  {
+    "week": 43,
+    "title": "Martian Manhunter / Blackest Night",
+    "start_date": "2026-03-05",
+    "end_date": "2026-03-11"
+  },
+  {
+    "week": 44,
+    "title": "The Joker / Arkham Origins",
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "week": 45,
+    "title": "Green Arrow / Rebirth",
+    "start_date": "2026-03-19",
+    "end_date": "2026-03-25"
+  },
+  {
+    "week": 46,
+    "title": "Raven / Teen Titans",
+    "start_date": "2026-03-26",
+    "end_date": "2026-04-01"
+  },
+  {
+    "week": 47,
+    "title": "Wonder Woman / New 52 (FKA Justice League)",
+    "start_date": "2026-04-02",
+    "end_date": "2026-04-08"
+  },
+  {
+    "week": 48,
+    "title": "The Joker / Suicide Squad",
+    "start_date": "2026-04-09",
+    "end_date": "2026-04-15"
+  },
+  {
+    "week": 49,
+    "title": "Catwoman / Ame-Comi",
+    "start_date": "2026-04-16",
+    "end_date": "2026-04-22"
+  },
+  {
+    "week": 50,
+    "title": "Harley Quinn / Arkham Knight",
+    "start_date": "2026-04-23",
+    "end_date": "2026-04-29"
+  },
+  {
+    "week": 51,
+    "title": "Bane / Arkham Origins",
+    "start_date": "2026-04-30",
+    "end_date": "2026-05-06"
+  },
+  {
+    "week": 52,
+    "title": "Batman / Batman Ninja",
+    "start_date": "2026-05-07",
+    "end_date": "2026-05-13"
+  },
+  {
+    "week": 53,
+    "title": "Raven / Rebirth",
+    "start_date": "2026-05-14",
+    "end_date": "2026-05-20"
+  },
+  {
+    "week": 54,
+    "title": "Scorpion / Klassic",
+    "start_date": "2026-05-21",
+    "end_date": "2026-05-27"
+  }
+]

@@ -1,0 +1,418 @@
+[
+  {
+    "week": 1,
+    "cycle_week": 1,
+    "title": "Gloves of Azrael",
+    "details": "Gloves of Azrael / Gauntlets of Azrael",
+    "start_date": "2025-04-17",
+    "end_date": "2025-04-23"
+  },
+  {
+    "week": 2,
+    "cycle_week": 2,
+    "title": "Superman (Blackest Night)",
+    "details": "Superman / Blackest Night",
+    "start_date": "2025-04-24",
+    "end_date": "2025-04-30"
+  },
+  {
+    "week": 3,
+    "cycle_week": 3,
+    "title": "Cloak of Destiny",
+    "details": "Cloak / Cloak of Destiny",
+    "start_date": "2025-05-01",
+    "end_date": "2025-05-07"
+  },
+  {
+    "week": 4,
+    "cycle_week": 4,
+    "title": "Flash (Blackest Night)",
+    "details": "The Flash / Blackest Night",
+    "start_date": "2025-05-08",
+    "end_date": "2025-05-14"
+  },
+  {
+    "week": 5,
+    "cycle_week": 5,
+    "title": "Mysterious Artifact",
+    "details": "Mysterious Artifact / The Ibistick",
+    "start_date": "2025-05-15",
+    "end_date": "2025-05-21"
+  },
+  {
+    "week": 6,
+    "cycle_week": 6,
+    "title": "Nightwing Ninjato",
+    "details": "Nightwing's Ninjato / Brandished Ninjato",
+    "start_date": "2025-05-22",
+    "end_date": "2025-05-28"
+  },
+  {
+    "week": 7,
+    "cycle_week": 7,
+    "title": "Riddler's Cane",
+    "details": "Riddler's Cane / Riddler's Staff",
+    "start_date": "2025-05-29",
+    "end_date": "2025-06-04"
+  },
+  {
+    "week": 8,
+    "cycle_week": 8,
+    "title": "Joker (Unhinged SS)",
+    "details": "The Joker / Unhinged Suicide Squad",
+    "start_date": "2025-06-05",
+    "end_date": "2025-06-11"
+  },
+  {
+    "week": 9,
+    "cycle_week": 9,
+    "title": "5-U-93-R Pill",
+    "details": "Overpowered 5-U-93-R Pill",
+    "start_date": "2025-06-12",
+    "end_date": "2025-06-18"
+  },
+  {
+    "week": 10,
+    "cycle_week": 10,
+    "title": "Aquaman (Flashpoint)",
+    "details": "Aquaman / Flashpoint",
+    "start_date": "2025-06-19",
+    "end_date": "2025-06-25"
+  },
+  {
+    "week": 11,
+    "cycle_week": 11,
+    "title": "Black Diamond",
+    "details": "Black Diamond / Heart of Darkness",
+    "start_date": "2025-06-26",
+    "end_date": "2025-07-02"
+  },
+  {
+    "week": 12,
+    "cycle_week": 12,
+    "title": "Sengoku Helmet",
+    "details": "Sengoku Helmet / Batman Ninja Helmet",
+    "start_date": "2025-07-03",
+    "end_date": "2025-07-09"
+  },
+  {
+    "week": 13,
+    "cycle_week": 13,
+    "title": "Astro Force",
+    "details": "Astro Force / Astro-Harness",
+    "start_date": "2025-07-10",
+    "end_date": "2025-07-16"
+  },
+  {
+    "week": 14,
+    "cycle_week": 14,
+    "title": "Time Capsule",
+    "details": "Time Capsule / Quake Engine",
+    "start_date": "2025-07-17",
+    "end_date": "2025-07-23"
+  },
+  {
+    "week": 15,
+    "cycle_week": 15,
+    "title": "Gingold / Gingold Soda",
+    "details": "Gingold Fruit / Gingold Soda",
+    "start_date": "2025-07-24",
+    "end_date": "2025-07-30"
+  },
+  {
+    "week": 16,
+    "cycle_week": 16,
+    "title": "Black Power Battery",
+    "details": "Black Power Battery / Nekron's Scythe",
+    "start_date": "2025-07-31",
+    "end_date": "2025-08-06"
+  },
+  {
+    "week": 17,
+    "cycle_week": 17,
+    "title": "War Gauntlet",
+    "details": "War Gauntlet / Claw of Horus",
+    "start_date": "2025-08-07",
+    "end_date": "2025-08-13"
+  },
+  {
+    "week": 18,
+    "cycle_week": 18,
+    "title": "Totem",
+    "details": "Totem / Tantu Totom",
+    "start_date": "2025-08-14",
+    "end_date": "2025-08-20"
+  },
+  {
+    "week": 19,
+    "cycle_week": 19,
+    "title": "Scarecrow Mask",
+    "details": "Scarecrow's Ventilator Mask",
+    "start_date": "2025-08-21",
+    "end_date": "2025-08-27"
+  },
+  {
+    "week": 20,
+    "cycle_week": 20,
+    "title": "Deadshot (Arkham Origins)",
+    "details": "Deadshot / Arkham Origins",
+    "start_date": "2025-08-28",
+    "end_date": "2025-09-03"
+  },
+  {
+    "week": 21,
+    "cycle_week": 21,
+    "title": "Alien Artifact",
+    "details": "Alien Artifact / Mother Box",
+    "start_date": "2025-09-04",
+    "end_date": "2025-09-10"
+  },
+  {
+    "week": 22,
+    "cycle_week": 22,
+    "title": "Batgirl (Cassandra Cain)",
+    "details": "Batgirl / Cassandra Cain",
+    "start_date": "2025-09-11",
+    "end_date": "2025-09-17"
+  },
+  {
+    "week": 23,
+    "cycle_week": 23,
+    "title": "Ancient Katana",
+    "details": "Ancient Katana / Soultaker Sword",
+    "start_date": "2025-09-18",
+    "end_date": "2025-09-24"
+  },
+  {
+    "week": 24,
+    "cycle_week": 24,
+    "title": "Flash (Metahuman)",
+    "details": "The Flash / Metahuman",
+    "start_date": "2025-09-25",
+    "end_date": "2025-10-01"
+  },
+  {
+    "week": 25,
+    "cycle_week": 25,
+    "title": "Flash (Reverse)",
+    "details": "The Flash / Reverse Flash",
+    "start_date": "2025-10-02",
+    "end_date": "2025-10-08"
+  },
+  {
+    "week": 26,
+    "cycle_week": 26,
+    "title": "Deathstroke (Flashpoint)",
+    "details": "Deathstroke / Flashpoint",
+    "start_date": "2025-10-09",
+    "end_date": "2025-10-15"
+  },
+  {
+    "week": 27,
+    "cycle_week": 27,
+    "title": "Militarized Batmobile",
+    "details": "Militarized Batmobile",
+    "start_date": "2025-10-16",
+    "end_date": "2025-10-22"
+  },
+  {
+    "week": 28,
+    "cycle_week": 28,
+    "title": "Doomsday (Blackest Night)",
+    "details": "Doomsday / Blackest Night",
+    "start_date": "2025-10-23",
+    "end_date": "2025-10-29"
+  },
+  {
+    "week": 29,
+    "cycle_week": 29,
+    "title": "Ares (Prime)",
+    "details": "Ares / Prime",
+    "start_date": "2025-10-30",
+    "end_date": "2025-11-05"
+  },
+  {
+    "week": 30,
+    "cycle_week": 30,
+    "title": "Master's Arms",
+    "details": "The Master's Arms / Master's Death Cart",
+    "start_date": "2025-11-06",
+    "end_date": "2025-11-12"
+  },
+  {
+    "week": 31,
+    "cycle_week": 31,
+    "title": "Flash (Wally West Rebirth)",
+    "details": "The Flash / Wally West Rebirth",
+    "start_date": "2025-11-13",
+    "end_date": "2025-11-19"
+  },
+  {
+    "week": 32,
+    "cycle_week": 32,
+    "title": "Raven (Rebirth)",
+    "details": "Raven / Rebirth",
+    "start_date": "2025-11-20",
+    "end_date": "2025-11-26"
+  },
+  {
+    "week": 33,
+    "cycle_week": 1,
+    "title": "Gloves of Azrael",
+    "details": "Gloves of Azrael / Gauntlets of Azrael",
+    "start_date": "2025-11-27",
+    "end_date": "2025-12-03"
+  },
+  {
+    "week": 34,
+    "cycle_week": 2,
+    "title": "Superman (Blackest Night)",
+    "details": "Superman / Blackest Night",
+    "start_date": "2025-12-04",
+    "end_date": "2025-12-10"
+  },
+  {
+    "week": 35,
+    "cycle_week": 3,
+    "title": "Cloak of Destiny",
+    "details": "Cloak / Cloak of Destiny",
+    "start_date": "2025-12-11",
+    "end_date": "2025-12-17"
+  },
+  {
+    "week": 36,
+    "cycle_week": 4,
+    "title": "Flash (Blackest Night)",
+    "details": "The Flash / Blackest Night",
+    "start_date": "2025-12-18",
+    "end_date": "2025-12-24"
+  },
+  {
+    "week": 37,
+    "cycle_week": 5,
+    "title": "Mysterious Artifact",
+    "details": "Mysterious Artifact / The Ibistick",
+    "start_date": "2025-12-25",
+    "end_date": "2025-12-31"
+  },
+  {
+    "week": 38,
+    "cycle_week": 6,
+    "title": "Nightwing Ninjato",
+    "details": "Nightwing's Ninjato / Brandished Ninjato",
+    "start_date": "2026-01-01",
+    "end_date": "2026-01-07"
+  },
+  {
+    "week": 39,
+    "cycle_week": 7,
+    "title": "Riddler's Cane",
+    "details": "Riddler's Cane / Riddler's Staff",
+    "start_date": "2026-01-08",
+    "end_date": "2026-01-14"
+  },
+  {
+    "week": 40,
+    "cycle_week": 8,
+    "title": "Joker (Unhinged SS)",
+    "details": "The Joker / Unhinged Suicide Squad",
+    "start_date": "2026-01-15",
+    "end_date": "2026-01-21"
+  },
+  {
+    "week": 41,
+    "cycle_week": 9,
+    "title": "5-U-93-R Pill",
+    "details": "Overpowered 5-U-93-R Pill",
+    "start_date": "2026-01-22",
+    "end_date": "2026-01-28"
+  },
+  {
+    "week": 42,
+    "cycle_week": 10,
+    "title": "Aquaman (Flashpoint)",
+    "details": "Aquaman / Flashpoint",
+    "start_date": "2026-01-29",
+    "end_date": "2026-02-04"
+  },
+  {
+    "week": 43,
+    "cycle_week": 11,
+    "title": "Black Diamond",
+    "details": "Black Diamond / Heart of Darkness",
+    "start_date": "2026-02-05",
+    "end_date": "2026-02-11"
+  },
+  {
+    "week": 44,
+    "cycle_week": 12,
+    "title": "Sengoku Helmet",
+    "details": "Sengoku Helmet / Batman Ninja Helmet",
+    "start_date": "2026-02-12",
+    "end_date": "2026-02-18"
+  },
+  {
+    "week": 45,
+    "cycle_week": 13,
+    "title": "Astro Force",
+    "details": "Astro Force / Astro-Harness",
+    "start_date": "2026-02-19",
+    "end_date": "2026-02-25"
+  },
+  {
+    "week": 46,
+    "cycle_week": 14,
+    "title": "Time Capsule",
+    "details": "Time Capsule / Quake Engine",
+    "start_date": "2026-02-26",
+    "end_date": "2026-03-04"
+  },
+  {
+    "week": 47,
+    "cycle_week": 15,
+    "title": "Gingold / Gingold Soda",
+    "details": "Gingold Fruit / Gingold Soda",
+    "start_date": "2026-03-05",
+    "end_date": "2026-03-11"
+  },
+  {
+    "week": 48,
+    "cycle_week": 16,
+    "title": "Black Power Battery",
+    "details": "Black Power Battery / Nekron's Scythe",
+    "start_date": "2026-03-12",
+    "end_date": "2026-03-18"
+  },
+  {
+    "week": 49,
+    "cycle_week": 17,
+    "title": "War Gauntlet",
+    "details": "War Gauntlet / Claw of Horus",
+    "start_date": "2026-03-19",
+    "end_date": "2026-03-25"
+  },
+  {
+    "week": 50,
+    "cycle_week": 18,
+    "title": "Totem",
+    "details": "Totem / Tantu Totom",
+    "start_date": "2026-03-26",
+    "end_date": "2026-04-01"
+  },
+  {
+    "week": 51,
+    "cycle_week": 19,
+    "title": "Scarecrow Mask",
+    "details": "Scarecrow's Ventilator Mask",
+    "start_date": "2026-04-02",
+    "end_date": "2026-04-08"
+  },
+  {
+    "week": 52,
+    "cycle_week": 20,
+    "title": "Deadshot (Arkham Origins)",
+    "details": "Deadshot / Arkham Origins",
+    "start_date": "2026-04-09",
+    "end_date": "2026-04-15"
+  }
+]
